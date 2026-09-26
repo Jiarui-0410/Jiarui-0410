@@ -8,7 +8,7 @@ recommendation, user behavior modeling, multimodal retrieval, and ML engineering
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, Java, JavaScript, SQL, HTML 
+**Languages:** Python, Java, JavaScript, SQL, HTML     
 **ML / Data:** PyTorch, scikit-learn, Pandas, CLIP, FAISS  
 **Backend & Tools:** FastAPI, Spring Boot, PostgreSQL, Docker, Git
 
