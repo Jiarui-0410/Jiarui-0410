@@ -1,11 +1,35 @@
 # Hi, I'm Jiarui 👋
 
-DSAI undergraduate at Nanyang Technological University.
+I'm a Data Science & Artificial Intelligence undergraduate at
+Nanyang Technological University, Singapore.
 
-Interested in:
-- Machine Learning & User Behavior Modeling
-- Recommendation & Personalization
-- Multimodal Retrieval
-- ML Engineering
+I enjoy building practical machine learning systems, with interests in
+recommendation, user behavior modeling, multimodal retrieval, and ML engineering.
 
-Currently building with Python, PyTorch, Java, SQL, FastAPI, Spring Boot and Docker.
+## 🛠 Tech Stack
+
+**Languages:** Python, Java, JavaScript, SQL, HTML 
+**ML / Data:** PyTorch, scikit-learn, Pandas, CLIP, FAISS  
+**Backend & Tools:** FastAPI, Spring Boot, PostgreSQL, Docker, Git
+
+## 🚀 Featured Projects
+
+### 🛍️ Personalized Multimodal Product Discovery
+Full-stack multimodal retrieval and personalized ranking system over 44K+ fashion products.
+
+`CLIP` `FAISS` `FastAPI` `Spring Boot` `PostgreSQL`
+
+### 🎮 Player Behavior Modeling
+Sequential gameplay behavior prediction pipeline with candidate generation,
+constraint-aware ranking, and automated execution.
+
+`Python` `scikit-learn` `Machine Learning` `Automation`
+
+### 📐 FormulaVis
+LLM-powered system for generating and interactively editing structured mathematical visualizations.
+
+`LLM` `JavaScript` `SVG`
+
+## 🌱 Currently Exploring
+
+PyTorch · Recommender Systems · Two-Tower Retrieval · PySpark · Cloud Deployment
