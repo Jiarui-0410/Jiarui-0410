@@ -31,7 +31,3 @@ constraint-aware ranking, and automated execution.
 LLM-powered system for generating and interactively editing structured mathematical visualizations.
 
 `LLM` `JavaScript` `SVG`
-
-## 🌱 Currently Exploring
-
-PyTorch · Recommender Systems · Two-Tower Retrieval · PySpark · Cloud Deployment
