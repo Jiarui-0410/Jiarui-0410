@@ -19,6 +19,8 @@ Full-stack multimodal retrieval and personalized ranking system over 44K+ fashio
 
 `CLIP` `FAISS` `FastAPI` `Spring Boot` `PostgreSQL`
 
+[View Project →]https://github.com/Jiarui-0410/multimodal-product-discovery
+
 ### 🎮 Player Behavior Modeling
 Sequential gameplay behavior prediction pipeline with candidate generation,
 constraint-aware ranking, and automated execution.
