@@ -25,7 +25,7 @@ constraint-aware ranking, and automated execution.
 
 `Python` `scikit-learn` `Machine Learning` `Automation`
 
-### 📐 FormulaVis
+### 📐 MathPrism
 LLM-powered system for generating and interactively editing structured mathematical visualizations.
 
 `LLM` `JavaScript` `SVG`
