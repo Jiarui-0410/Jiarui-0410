@@ -21,4 +21,4 @@ recommendation, user behavior modeling, multimodal retrieval, and ML engineering
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/jiarui-zhang-9783a03b8/) · [Email](mailto:D250004@e.ntu.edu.sg)
+[LinkedIn](https://www.linkedin.com/in/jiarui-zhang-9783a03b8/)      ·      [Email](mailto:D250004@e.ntu.edu.sg)
