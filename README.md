@@ -12,22 +12,13 @@ recommendation, user behavior modeling, multimodal retrieval, and ML engineering
 **ML / Data:** PyTorch, scikit-learn, Pandas, CLIP, FAISS  
 **Backend & Tools:** FastAPI, Spring Boot, PostgreSQL, Docker, Git
 
-## 🚀 Featured Projects
+## 🌱 Currently
 
-### 🛍️ Personalized Multimodal Product Discovery
-Full-stack multimodal retrieval and personalized ranking system over 44K+ fashion products.
+- Working on machine learning and user-behavior modeling
+- Previously a Research Assistant at A*STAR I²R
+- Co-author on an ACM CHI 2027 submission currently under review
+- Exploring recommender systems, Two-Tower retrieval, PySpark, and cloud ML
 
-`CLIP` `FAISS` `FastAPI` `Spring Boot` `PostgreSQL`
+## 📫 Connect
 
-[View Project →](https://github.com/Jiarui-0410/multimodal-product-discovery)
-
-### 🎮 Player Behavior Modeling
-Sequential gameplay behavior prediction pipeline with candidate generation,
-constraint-aware ranking, and automated execution.
-
-`Python` `scikit-learn` `Machine Learning` `Automation`
-
-### 📐 MathPrism
-LLM-powered system for generating and interactively editing structured mathematical visualizations.
-
-`LLM` `JavaScript` `SVG`
+[LinkedIn](https://www.linkedin.com/in/jiarui-zhang-9783a03b8/) · [Email](mailto:D250004@e.ntu.edu.sg)
