@@ -17,7 +17,6 @@ recommendation, user behavior modeling, multimodal retrieval, and ML engineering
 - Working on machine learning and user-behavior modeling
 - Previously a Research Assistant at A*STAR I²R
 - Co-author on an ACM CHI 2027 submission currently under review
-- Exploring recommender systems, Two-Tower retrieval, PySpark, and cloud ML
 
 ## 📫 Connect
 
